@@ -1,1 +1,1 @@
-*Algoritmo para computar un número natural en JavaScript*
+*Algoritmo para determinar si un número natural es primo o no en JavaScript*
