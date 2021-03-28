@@ -1,0 +1,35 @@
+main {
+  width: 500px;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+}
+#addDiv{
+  display:inline-table;
+  width:100%;
+}
+#addDiv div{
+  display:table-row;
+}
+#addDiv #addInput{
+  width:80%;
+  display:table-cell;
+}
+#addDiv #addButton{
+  width:20%;
+  display:table-cell;
+}
+#list .item{
+  height: 5vh;
+  display:inline-table;
+}
+#list .item div{
+  display:table-cell;
+  width:92%;
+}
+#list .item .fa-edit,
+#list .item .fa-trash {
+  display:table-cell;
+  width:4%;
+}
